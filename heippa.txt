@@ -1,3 +1,4 @@
 Tämä on esimerkkitiedosto, joka yritetään kohta saada nettiin siirrettyä
 eikö vaan?
 Tässä uusi lisätty rivi netissä!!! JEE!
+Tässä vielä yksi uusi rivi, joka on tehty NANO:lla konsolissa!!!
